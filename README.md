@@ -1,27 +1,65 @@
+<div align="center">
+
 # Jarvee
 
-**Web Developer** — Vue.js, Next.js, Laravel & AdonisJS
+**Web Developer** building fast, maintainable applications end to end — interface, backend, and deployment.
 
-I build fast, maintainable web applications end to end — from interface to backend to deployment. Currently focused on Vue/Next front ends backed by Laravel and AdonisJS APIs, shipped through Vercel.
+<img src="https://img.shields.io/badge/-Frontend-38B2AC?style=flat-square" alt="Frontend" />
+<img src="https://img.shields.io/badge/-Backend-38B2AC?style=flat-square" alt="Backend" />
+<img src="https://img.shields.io/badge/-Full--Stack-38B2AC?style=flat-square" alt="Full-Stack" />
 
-📫 **Contact:** jarveeviosbelarmino@gmail.com
-<!-- 🔗 LinkedIn: https://linkedin.com/in/your-handle -->
-<!-- 🌐 Portfolio: https://your-portfolio.com -->
-
----
-
-## Skills
-
-| Category | Technologies |
-|---|---|
-| Frontend | HTML, CSS, JavaScript, Tailwind CSS, Vue.js, Next.js |
-| Backend | Laravel, AdonisJS |
-| Version Control | Git, GitHub, Bitbucket |
-| Deployment | Vercel |
+</div>
 
 ---
 
-## Featured Projects
+### About
+
+Currently focused on Vue.js and Next.js front ends backed by Laravel and AdonisJS APIs, shipped through Vercel. Comfortable owning a feature from design handoff through deployment.
+
+- 🔧 Version control: Git, GitHub, Bitbucket
+- ☁️ Deployment: Vercel
+- 📫 jarveeviosbelarmino@gmail.com
+
+---
+
+### Skills
+
+<table align="center">
+<tr>
+<td align="right"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vue,nextjs&theme=dark" alt="Frontend icons" /></td>
+</tr>
+<tr>
+<td align="right"><b>Backend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" />
+<img src="https://img.shields.io/badge/AdonisJS-220052?style=flat-square&logo=adonisjs&logoColor=white" alt="AdonisJS" />
+</td>
+</tr>
+<tr>
+<td align="right"><b>Version Control</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git & GitHub" />
+<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" alt="Bitbucket" />
+</td>
+</tr>
+<tr>
+<td align="right"><b>Deployment</b></td>
+<td><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" /></td>
+</tr>
+</table>
+
+---
+
+### GitHub Activity
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=DevJarbs&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" width="65%" />
+</div>
+
+---
+
+### Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -32,4 +70,10 @@ I build fast, maintainable web applications end to end — from interface to bac
 
 ---
 
-<sub>© 2026 Jarvee · [github.com/DevJarbs](https://github.com/DevJarbs)</sub>
+<div align="center">
+
+<a href="mailto:jarveeviosbelarmino@gmail.com"><img src="https://img.shields.io/badge/Email-38B2AC?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/DevJarbs"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<!-- <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
+
+</div>
