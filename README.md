@@ -37,10 +37,17 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🛠️ Tools
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vue,nextjs,laravel,git,github,vercel&theme=dark" alt="Tech stack icons" />
+  ## 🛠️ **Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vuejs,nextjs&theme=dark" alt="Frontend icons" />
+  ## 🛠️ **Backend**
+<img src="https://skillicons.dev/icons?i=laravel,adonisjs&theme=dark" alt="Backend icons" />
+  ## 🛠️ **Version Control**
+<img src="https://skillicons.dev/icons?i=bitbucket,github,&theme=dark" alt="Version control icons" />
+  ## 🛠️ **Deployment**
+<img src="https://skillicons.dev/icons?i=bitbucket,github,&theme=dark" alt="Deployment icons" />
 
 <br/><br/>
 
