@@ -39,31 +39,30 @@
 
 ## 🛠️ Tools
 
-<p align="center"><strong>Frontend</strong></p>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vue,nextjs&theme=dark" alt="Frontend icons" />
-</div>
-
-<p align="center"><strong>Backend</strong></p>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Backend icons" />
+<table align="center">
+<tr>
+<td align="right"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vue,nextjs&theme=dark" alt="Frontend icons" /></td>
+</tr>
+<tr>
+<td align="right"><b>Backend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" />
 <img src="https://img.shields.io/badge/AdonisJS-220052?style=flat-square&logo=adonisjs&logoColor=white" alt="AdonisJS" />
-</div>
-
-<p align="center"><strong>Version Control</strong></p>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Version control icons" />
+</td>
+</tr>
+<tr>
+<td align="right"><b>Version Control</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git & GitHub" />
 <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" alt="Bitbucket" />
-</div>
-
-<p align="center"><strong>Deployment</strong></p>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Deployment icons" />
-</div>
+</td>
+</tr>
+<tr>
+<td align="right"><b>Deployment</b></td>
+<td><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" /></td>
+</tr>
+</table>
 
 <br/>
 
