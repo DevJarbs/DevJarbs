@@ -4,9 +4,9 @@
 
 **Web Developer** building fast, maintainable applications end to end — interface, backend, and deployment.
 
-<img src="https://img.shields.io/badge/-Frontend-38B2AC?style=flat-square" alt="Frontend" />
-<img src="https://img.shields.io/badge/-Backend-38B2AC?style=flat-square" alt="Backend" />
-<img src="https://img.shields.io/badge/-Full--Stack-38B2AC?style=flat-square" alt="Full-Stack" />
+<img src="https://img.shields.io/badge/-Frontend-2563EB?style=flat-square" alt="Frontend" />
+<img src="https://img.shields.io/badge/-Backend-2563EB?style=flat-square" alt="Backend" />
+<img src="https://img.shields.io/badge/-Full--Stack-2563EB?style=flat-square" alt="Full-Stack" />
 
 </div>
 
@@ -54,7 +54,7 @@ Currently focused on Vue.js and Next.js front ends backed by Laravel and AdonisJ
 ### GitHub Activity
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=DevJarbs&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" width="65%" />
+<img src="https://streak-stats.demolab.com/?user=DevJarbs&theme=onedark&hide_border=true&background=00000000" alt="GitHub Streak" width="65%" />
 </div>
 
 ---
@@ -72,7 +72,7 @@ Currently focused on Vue.js and Next.js front ends backed by Laravel and AdonisJ
 
 <div align="center">
 
-<a href="mailto:jarveeviosbelarmino@gmail.com"><img src="https://img.shields.io/badge/Email-38B2AC?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:jarveeviosbelarmino@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/DevJarbs"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 <!-- <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
 
