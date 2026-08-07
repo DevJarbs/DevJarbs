@@ -1,28 +1,26 @@
 <div align="center">
 
-# Jarvee
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Jarvee+%E2%80%94+Navigating+the+Web+Frontier;Vue.js+%2B+Next.js+%2B+Laravel+%2B+AdonisJS;Currently+orbiting%3A+full-stack+deployments" alt="Typing SVG" />
 
-**Web Developer** building fast, maintainable applications end to end — interface, backend, and deployment.
-
-<img src="https://img.shields.io/badge/-Frontend-2563EB?style=flat-square" alt="Frontend" />
-<img src="https://img.shields.io/badge/-Backend-2563EB?style=flat-square" alt="Backend" />
-<img src="https://img.shields.io/badge/-Full--Stack-2563EB?style=flat-square" alt="Full-Stack" />
+<img src="https://img.shields.io/badge/-Frontend-8B5CF6?style=flat-square" alt="Frontend" />
+<img src="https://img.shields.io/badge/-Backend-8B5CF6?style=flat-square" alt="Backend" />
+<img src="https://img.shields.io/badge/-Full--Stack-8B5CF6?style=flat-square" alt="Full-Stack" />
 
 </div>
 
 ---
 
-### About
+### 📡 Mission Briefing
 
-Currently focused on Vue.js and Next.js front ends backed by Laravel and AdonisJS APIs, shipped through Vercel. Comfortable owning a feature from design handoff through deployment.
+Launching interfaces and APIs into orbit — Vue.js and Next.js on the front end, Laravel and AdonisJS powering the engine room, deployed through Vercel. Comfortable navigating the full flight path from design handoff to liftoff.
 
-- 🔧 Version control: Git, GitHub, Bitbucket
-- ☁️ Deployment: Vercel
-- 📫 jarveeviosbelarmino@gmail.com
+- 🛰️ Version control: Git, GitHub, Bitbucket
+- 🌌 Deployment: Vercel
+- 📶 Transmission: jarveeviosbelarmino@gmail.com
 
 ---
 
-### Skills
+### 🪐 Tech Arsenal
 
 <table align="center">
 <tr>
@@ -51,17 +49,17 @@ Currently focused on Vue.js and Next.js front ends backed by Laravel and AdonisJ
 
 ---
 
-### GitHub Activity
+### 🌌 Flight Log
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=DevJarbs&theme=onedark&hide_border=true&background=00000000" alt="GitHub Streak" width="65%" />
+<img src="https://streak-stats.demolab.com/?user=DevJarbs&theme=synthwave&hide_border=true&background=00000000" alt="GitHub Streak" width="70%" />
 </div>
 
 ---
 
-### Featured Projects
+### 🚀 Launch Log
 
-| Project | Description | Stack |
+| Mission | Description | Payload |
 |---|---|---|
 | [Project Name](https://github.com/DevJarbs/project-name) | One-line description of what it does and the problem it solves. | Vue · Tailwind |
 | [Project Name](https://github.com/DevJarbs/project-name) | One-line description of what it does and the problem it solves. | Laravel · Next.js |
@@ -72,8 +70,12 @@ Currently focused on Vue.js and Next.js front ends backed by Laravel and AdonisJ
 
 <div align="center">
 
-<a href="mailto:jarveeviosbelarmino@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:jarveeviosbelarmino@gmail.com"><img src="https://img.shields.io/badge/Signal-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/DevJarbs"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 <!-- <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
+
+<br/><br/>
+
+<sub>🛰️ Ground control, standing by.</sub>
 
 </div>
