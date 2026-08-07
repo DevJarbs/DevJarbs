@@ -44,17 +44,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DevJarbs&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="DevJarbs's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJarbs&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=DevJarbs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-> **If these still show as broken links:** the public `github-readme-stats` instance is community-run and shares GitHub API quota across everyone using it, so it periodically rate-limits or goes down. Two reliable fixes:
-> 1. Open one of the image URLs above directly in a browser tab — if it errors there too, it's the public instance, not your README.
-> 2. Deploy your own free copy on Vercel (takes ~2 minutes): fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), deploy it to your own Vercel account, then swap `github-readme-stats.vercel.app` in the URLs above for your own deployment's domain.
 
 ---
 
