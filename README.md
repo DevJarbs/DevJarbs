@@ -1,80 +1,97 @@
-<h1 align="center">Hi 👋, I'm Jarvee</h1>
-<h3 align="center">Web Developer crafting fast, clean interfaces & full-stack apps</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/DevJarbs">
-    <img src="https://komarev.com/ghpvc/?username=DevJarbs&label=Profile%20Views&color=0e75b6&style=flat" alt="DevJarbs" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jarvee+%F0%9F%91%8B;Web+Developer+%7C+Vue+%26+Laravel;Building+fast%2C+clean+interfaces+%E2%9C%A8" alt="Typing SVG" />
 
----
+<a href="https://github.com/DevJarbs">
+  <img src="https://komarev.com/ghpvc/?username=DevJarbs&label=Profile%20Views&color=38B2AC&style=flat" alt="Profile views" />
+</a>
+<img src="https://img.shields.io/github/followers/DevJarbs?label=Followers&style=flat&color=38B2AC" alt="GitHub followers" />
 
-### 🚀 About Me
+</div>
 
-- 💻 I build with **Vue.js**, **Next.js**, **Adonis.js**, and **Laravel**
+<br/>
+
+## 🚀 About Me
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+- 💻 I build with **Vue.js**, **Next.js**, **Adonis.js** & **Laravel**
 - 🎨 I style with **Tailwind CSS**, **HTML** & **CSS**
 - 🔧 Version control on **GitHub** & **Bitbucket**
 - ☁️ Deploying projects on **Vercel**
 - 🌱 Always learning and shipping side projects
-- 📫 Reach me at: **jarveeviosbelarmino@gmail.com**
+- 📫 Reach me at **jarveeviosbelarmino@gmail.com**
 
----
+</td>
+<td width="45%" valign="top">
 
-### 🛠️ Tech Stack
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=DevJarbs&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" width="100%" />
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white" alt="AdonisJS" />
-</p>
+</td>
+</tr>
+</table>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+<br/>
 
----
+## 🛠️ Tech Stack
 
-### 📊 GitHub Stats
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vue,nextjs,laravel,git,github,vercel&theme=dark" alt="Tech stack icons" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=DevJarbs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<br/><br/>
 
----
+<img src="https://img.shields.io/badge/AdonisJS-220052?style=flat-square&logo=adonisjs&logoColor=white" alt="AdonisJS" />
+<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" alt="Bitbucket" />
+</div>
 
-### 📌 Pinned Projects
+<br/>
 
-> Add your top 3–6 repos here, or pin them directly on your GitHub profile (Customize your pins → select repos). Example format:
+## 📌 Pinned Projects
 
-- **[Project Name](https://github.com/DevJarbs/project-name)** — one-line description of what it does and the stack used.
-- **[Project Name](https://github.com/DevJarbs/project-name)** — one-line description of what it does and the stack used.
+<table>
+<tr>
+<th align="left">Project</th>
+<th align="left">Description</th>
+<th align="left">Stack</th>
+</tr>
+<tr>
+<td><a href="https://github.com/DevJarbs/project-name">Project Name</a></td>
+<td>One-line description of what it does.</td>
+<td>Vue · Tailwind</td>
+</tr>
+<tr>
+<td><a href="https://github.com/DevJarbs/project-name">Project Name</a></td>
+<td>One-line description of what it does.</td>
+<td>Laravel · Next.js</td>
+</tr>
+</table>
 
----
+<p align="center"><sub>Or pin repos directly on your profile: <b>Customize your pins → select repos</b></sub></p>
 
-### 🔗 Connect with Me
+<br/>
 
-<p align="left">
-  <a href="mailto:jarveeviosbelarmino@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <!-- Add more links below, e.g. LinkedIn, portfolio, X/Twitter -->
-  <!--
-  <a href="https://linkedin.com/in/your-handle">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  -->
-</p>
+## 🔗 Connect with Me
 
----
+<div align="center">
+<a href="mailto:jarveeviosbelarmino@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<!-- Uncomment and fill in when ready
+<a href="https://linkedin.com/in/your-handle">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://your-portfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+-->
+</div>
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos!</i></p>
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by+%E2%80%94+feel+free+to+explore+my+repos!" alt="Footer" />
+</div>
