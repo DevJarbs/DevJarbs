@@ -30,7 +30,7 @@ Launching interfaces and APIs into orbit — Vue.js and Next.js on the front end
 
 ### 🪐 Tech Arsenal
 
-<table align="center">
+<table align="center" background-image="starfield.svg">
 <tr>
 <td align="right"><b>Frontend</b></td>
 <td><img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vue,nextjs&theme=dark" alt="Frontend icons" /></td>
