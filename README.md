@@ -1,10 +1,20 @@
 <div align="center">
 
-<img src="hero-banner.svg" alt="Jarvee — Navigating the Web Frontier" width="100%" />
+<img src=starfield.svg" alt="" width="100%" />
+
+# Jarvee
+
+**Web Developer** — Vue.js, Next.js, Laravel & AdonisJS
+
+<img src="https://img.shields.io/badge/-Frontend-8B5CF6?style=flat-square" alt="Frontend" />
+<img src="https://img.shields.io/badge/-Backend-8B5CF6?style=flat-square" alt="Backend" />
+<img src="https://img.shields.io/badge/-Full--Stack-8B5CF6?style=flat-square" alt="Full-Stack" />
 
 </div>
 
 ---
+
+<img src=starfield.svg" alt="" width="100%" />
 
 ### 📡 Mission Briefing
 
@@ -15,6 +25,8 @@ Launching interfaces and APIs into orbit — Vue.js and Next.js on the front end
 - 📶 Transmission: jarveeviosbelarmino@gmail.com
 
 ---
+
+<img src=starfield.svg" alt="" width="100%" />
 
 ### 🪐 Tech Arsenal
 
@@ -45,6 +57,8 @@ Launching interfaces and APIs into orbit — Vue.js and Next.js on the front end
 
 ---
 
+<img src=starfield.svg" alt="" width="100%" />
+
 ### 🌌 Flight Log
 
 <div align="center">
@@ -52,6 +66,8 @@ Launching interfaces and APIs into orbit — Vue.js and Next.js on the front end
 </div>
 
 ---
+
+<img src=starfield.svg" alt="" width="100%" />
 
 ### 🚀 Launch Log
 
@@ -63,6 +79,10 @@ Launching interfaces and APIs into orbit — Vue.js and Next.js on the front end
 <sub>Pin your best repos directly on your profile for quick access: *Customize your pins → select repos.*</sub>
 
 ---
+
+<img src=starfield.svg" alt="" width="100%" />
+
+### 📡 Ground Control
 
 <div align="center">
 
