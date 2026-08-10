@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="starfield-banner.svg" alt="Starfield" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Jarvee+%E2%80%94+Navigating+the+Web+Frontier;Vue.js+%2B+Next.js+%2B+Laravel+%2B+AdonisJS;Currently+orbiting%3A+full-stack+deployments" alt="Typing SVG" />
-
-<img src="https://img.shields.io/badge/-Frontend-8B5CF6?style=flat-square" alt="Frontend" />
-<img src="https://img.shields.io/badge/-Backend-8B5CF6?style=flat-square" alt="Backend" />
-<img src="https://img.shields.io/badge/-Full--Stack-8B5CF6?style=flat-square" alt="Full-Stack" />
+<img src="hero-banner.svg" alt="Jarvee — Navigating the Web Frontier" width="100%" />
 
 </div>
 
