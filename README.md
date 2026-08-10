@@ -28,7 +28,7 @@ Launching interfaces and APIs into orbit — Vue.js and Next.js on the front end
 
 <img src="starfield.svg" alt="" width="100%" />
 
-### 🪐 Tech Arsenal
+### 🛠️ Tools
 
 <table align="center">
 <tr>
