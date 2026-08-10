@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=starfield.svg" alt="Star Field" width="100%" />
+<img src="starfield.svg" alt="" width="100%" />
 
 # Jarvee
 
@@ -14,7 +14,7 @@
 
 ---
 
-<img src=starfield.svg" alt="Star Field" width="100%" />
+<img src="starfield.svg" alt="" width="100%" />
 
 ### 📡 Mission Briefing
 
@@ -26,7 +26,7 @@ Launching interfaces and APIs into orbit — Vue.js and Next.js on the front end
 
 ---
 
-<img src=starfield.svg" alt="Star Field" width="100%" />
+<img src="starfield.svg" alt="" width="100%" />
 
 ### 🪐 Tech Arsenal
 
@@ -57,7 +57,7 @@ Launching interfaces and APIs into orbit — Vue.js and Next.js on the front end
 
 ---
 
-<img src=starfield.svg" alt="Star Field" width="100%" />
+<img src="starfield.svg" alt="" width="100%" />
 
 ### 🌌 Flight Log
 
@@ -67,7 +67,7 @@ Launching interfaces and APIs into orbit — Vue.js and Next.js on the front end
 
 ---
 
-<img src=starfield.svg" alt="Star Field" width="100%" />
+<img src="starfield.svg" alt="" width="100%" />
 
 ### 🚀 Launch Log
 
@@ -80,7 +80,7 @@ Launching interfaces and APIs into orbit — Vue.js and Next.js on the front end
 
 ---
 
-<img src=starfield.svg" alt="Star Field" width="100%" />
+<img src="starfield.svg" alt="" width="100%" />
 
 ### 📡 Ground Control
 
