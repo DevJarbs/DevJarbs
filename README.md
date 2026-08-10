@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/starfield-banner.svg" alt="Starfield" width="100%" />
+<img src="starfield-banner.svg" alt="Starfield" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Jarvee+%E2%80%94+Navigating+the+Web+Frontier;Vue.js+%2B+Next.js+%2B+Laravel+%2B+AdonisJS;Currently+orbiting%3A+full-stack+deployments" alt="Typing SVG" />
 
