@@ -1,8 +1,8 @@
 <div align="center">
 
-# Jarvee
+# Jarvee Vios
 
-**Senior Full-Stack Engineer** — Vue.js · Next.js · Laravel · AdonisJS
+**Junior Software Developer** — Vue.js · Next.js · Laravel · AdonisJS
 
 <img src="https://img.shields.io/badge/status-available%20for%20hire-2ea44f?style=for-the-badge" alt="Available for hire" />
 
@@ -17,7 +17,7 @@
 
 ---
 
-### 🧰 Tech Arsenal
+### 🛠️ Tools
 
 <table align="center">
 <tr>
@@ -52,16 +52,12 @@
 <tr>
 <td width="50%" valign="top">
 
-**📖 [next-forge](https://github.com/DevJarbs/next-forge)**
+**📖 [next-forge](https://github.com/DevJarbs)**
 <br/>A production-ready boilerplate for Next.js with App Router, Tailwind CSS, and TypeScript.
 <br/>🟦 TypeScript &nbsp;·&nbsp; ⭐ 1.2k &nbsp;·&nbsp; 🍴 340
 
 </td>
 <td width="50%" valign="top">
-
-**📖 [rusty-cli](https://github.com/DevJarbs/rusty-cli)**
-<br/>High-performance command-line tool for managing microservice deployments.
-<br/>🟧 Rust &nbsp;·&nbsp; ⭐ 890
 
 </td>
 </tr>
