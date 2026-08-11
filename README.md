@@ -28,7 +28,7 @@ Launching interfaces and APIs into orbit — Vue.js and Next.js on the front end
 
 <img src="starfield.svg" alt="" width="100%" />
 
-### 🪐 Tech Arsenal
+### 🛠️ Tools
 
 <table align="center">
 <tr>
@@ -59,7 +59,7 @@ Launching interfaces and APIs into orbit — Vue.js and Next.js on the front end
 
 <img src="starfield.svg" alt="" width="100%" />
 
-### 🌌 Flight Log
+### Flight Log
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=DevJarbs&theme=synthwave&hide_border=true&background=00000000" alt="GitHub Streak" width="70%" />
