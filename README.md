@@ -59,18 +59,15 @@
 </td>
 <td width="50%" valign="top">
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-**📖 [rusty-cli](https://github.com/DevJarbs/rusty-cli)**
+**📖 [project-name](https://github.com/DevJarbs)**
 <br/>High-performance command-line tool for managing microservice deployments.
-<br/>🟧 Rust &nbsp;·&nbsp; ⭐ 890
- 
+<br/>🟧 laravel &nbsp;·&nbsp; ⭐ 890
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+
 **📖 [project-name](https://github.com/DevJarbs/project-name)**
 <br/>One-line description of what it does and the problem it solves.
 <br/>🟨 JavaScript &nbsp;·&nbsp; ⭐ 456
