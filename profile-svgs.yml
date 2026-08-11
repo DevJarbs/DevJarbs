@@ -1,0 +1,69 @@
+name: Generate profile SVGs
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily at midnight UTC
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download stats.svg
+        run: |
+          mkdir -p output
+          curl -sL "https://github-readme-stats.vercel.app/api?username=DevJarbs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&custom_title=DevJarb%27s+Github+Stats" -o output/stats.svg
+      - name: Publish to stats-output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          publish_branch: stats-output
+          keep_files: false
+
+  languages:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download languages.svg
+        run: |
+          mkdir -p output
+          curl -sL "https://github-readme-stats.vercel.app/api/top-langs/?username=DevJarbs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&custom_title=Frequently+Used+Languages" -o output/languages.svg
+      - name: Publish to languages-output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          publish_branch: languages-output
+          keep_files: false
+
+  trophy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download trophy.svg
+        run: |
+          mkdir -p output
+          curl -sL "https://github-profile-trophy.vercel.app/?username=DevJarbs&theme=juicyfresh&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" -o output/trophy.svg
+      - name: Publish to trophy-output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          publish_branch: trophy-output
+          keep_files: false
+
+  activity-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download activity-graph.svg
+        run: |
+          mkdir -p output
+          curl -sL "https://github-readme-activity-graph.vercel.app/graph?username=DevJarbs&radius=16&theme=merko&area=true&custom_title=DevJarb%27s+Contribution+Graph" -o output/activity-graph.svg
+      - name: Publish to activity-graph-output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          publish_branch: activity-graph-output
+          keep_files: false
