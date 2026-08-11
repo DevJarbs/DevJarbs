@@ -310,13 +310,13 @@
 </div>
 </div>
 <script>
- 
+
     document.addEventListener('DOMContentLoaded', () => {
         const container = document.getElementById('contribution-graph');
         const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
         const numCols = 52;
         const numRows = 7;
- 
+
         let html = '<div class="flex flex-col gap-1 pr-2 text-label-caps text-on-surface-variant mt-6">';
         ['Mon', 'Wed', 'Fri'].forEach(day => {
              html += `<div class="h-3 text-xs leading-3 ${day === 'Wed' ? 'my-[8px]' : ''}">${day}</div>`;
@@ -324,7 +324,7 @@
         html += '</div>';
         html += '<div class="flex gap-[3px] flex-1">';
         for (let col = 0; col < numCols; col++) {
- 
+
             if (col % 4 === 0) {
                  html += `<div class="flex flex-col">
                             <div class="h-5 text-label-caps text-on-surface-variant text-xs">${months[Math.floor((col/4) % 12)]}</div>
@@ -342,7 +342,7 @@
                 html += `<div class="flex flex-col mt-5 gap-[3px]">`;
             }
             for (let row = 0; row < numRows; row++) {
- 
+
                 const intensity = Math.random();
                 let bgClass = 'bg-surface-container-highest';
                 if (intensity > 0.9) bgClass = 'bg-primary';
@@ -358,7 +358,7 @@
             html += `</div></div>`;
         }
         html += '</div>';
- 
+
         if(container) container.innerHTML = html;
     });
 </script></div></main></div></body></html>
