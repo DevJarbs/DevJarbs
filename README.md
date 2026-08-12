@@ -27,7 +27,7 @@
 
 <br clear="both">
 
-<h2 data-importer="text" align="left">🛠️ Tools</h2>
+<h2 data-importer="text" align="left">Technical Skills</h2>
 
 ###
 
