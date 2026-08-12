@@ -2,7 +2,7 @@ name: Generate stats card
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"
 
   workflow_dispatch:
 
@@ -18,10 +18,6 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Debug secret presence
-        run: echo "STATS_TOKEN is set: ${{ secrets.STATS_TOKEN != '' }}"
-      - name: generate stats.svg
-        uses: readme-tools/github-readme-stats-action@v1
       - name: generate stats.svg
         uses: readme-tools/github-readme-stats-action@v1
         with:
