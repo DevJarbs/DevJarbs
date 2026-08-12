@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="center">Jarvee Vios</h2>
+<h2 data-importer="text" align="center">Jarvee Vios</h2> 
 
 ###
 
@@ -17,7 +17,7 @@
 ###
 
 <div data-importer="stats" align="center">
- ![Stats](https://github-readme-stats.vercel.app/api?username=DevJarbs&show_icons=true&theme=merko&include_all_commits=true&hide_border=false)
+ <img src="https://github-readme-stats.vercel.app/api?username=DevJarbs&show_icons=true&theme=merko&include_all_commits=true&hide_border=false" height="150" alt="github stats" />
   <img src="https://raw.githubusercontent.com/DevJarbs/DevJarbs/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2&custom_title=Frequently%20Used%20Languages" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/DevJarbs/DevJarbs/trophy-output/trophy.svg?theme=juicyfresh&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://raw.githubusercontent.com/DevJarbs/DevJarbs/activity-graph-output/activity-graph.svg?radius=16&theme=merko&area=true&order=5&custom_title=DevJarb's%20Contribution%20Graph" height="300" alt="activity-graph graph"  />
