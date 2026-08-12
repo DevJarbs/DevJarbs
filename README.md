@@ -36,7 +36,12 @@
 
 ###
 <div data-importer="techs" align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,vue&theme=dark" alt="frontend skills" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3 badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs badge" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="vuejs badge" />
 </div>
 
 ###
@@ -45,7 +50,9 @@
 
 ###
 <div data-importer="techs" align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel&theme=dark" alt="backend skills" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs badge" />
+  <img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white" alt="adonisjs badge" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel badge" />
 </div>
 
 ###
@@ -54,7 +61,7 @@
 
 ###
 <div data-importer="techs" align="left">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="database skills" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql badge" />
 </div>
 
 ###
@@ -63,7 +70,9 @@
 
 ###
 <div data-importer="techs" align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,bitbucket&theme=dark" alt="version control skills" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github badge" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="bitbucket badge" />
 </div>
 
 ###
