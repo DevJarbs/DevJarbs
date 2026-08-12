@@ -7,14 +7,6 @@
 </div>
 
 ###
-<h3 data-importer="text" align="left">About me</h3>
-
-###
-<h6 data-importer="text" align="left">I'm a software developer who enjoys building across the full stack — crafting frontend experiences with Vue.js and Next.js, and building the APIs and backend logic behind them with Laravel and AdonisJS. I care about writing code that's not just functional but clean, maintainable, and built to scale. I like working closely with designers and other engineers to turn ideas into real, working products, and outside of client work I stay sharp by tinkering with side projects and exploring new tools and frameworks. Always looking for the next challenging project to push my skills further.</h6>
-
-###
-
-###
 
 <div data-importer="stats" align="center">
   <img src="https://github-readme-stats-xi-ten-84.vercel.app/api?username=DevJarbs&show_icons=true&theme=merko&include_all_commits=true&hide_border=false" height="150" alt="github stats" />
