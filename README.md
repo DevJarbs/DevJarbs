@@ -3,14 +3,14 @@
   <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=360&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=68B587&center=true&vCenter=true&width=500&lines=Jarvee+Vios;Software+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=91B302&center=true&vCenter=true&width=500&lines=Jarvee+Vios;Software+Developer;" alt="Typing SVG" />
 </div>
 
 ###
 <h3 data-importer="text" align="left">About me</h3>
 
 ###
-<p data-importer="text" align="left">I'm a passionate software developer with a strong interest in building innovative applications and solving complex problems through clean, efficient code. I enjoy working across the full stack, from designing robust backend systems and APIs to crafting the frontend experiences that bring them to life, and I'm always looking for ways to write code that's not just functional but maintainable and scalable. Architecting solutions that are both technically sound and genuinely useful is something I find especially rewarding, since it sits right at the intersection of engineering rigor and real-world impact. I'm also drawn to the collaborative side of development, working closely with designers, product managers, and fellow engineers to bring ideas to life. Outside of writing code, I like staying current with emerging tools and best practices, whether that's through side projects, open-source contributions, or just experimenting with new frameworks and languages. Ultimately, I want to keep growing as a developer by taking on challenging projects that push me to think critically and build software that genuinely makes a difference for users.</p>
+<h6 data-importer="text" align="left">I'm a passionate software developer with a strong interest in building innovative applications and solving complex problems through clean, efficient code. I enjoy working across the full stack, from designing robust backend systems and APIs to crafting the frontend experiences that bring them to life, and I'm always looking for ways to write code that's not just functional but maintainable and scalable. Architecting solutions that are both technically sound and genuinely useful is something I find especially rewarding, since it sits right at the intersection of engineering rigor and real-world impact. I'm also drawn to the collaborative side of development, working closely with designers, product managers, and fellow engineers to bring ideas to life. Outside of writing code, I like staying current with emerging tools and best practices, whether that's through side projects, open-source contributions, or just experimenting with new frameworks and languages. Ultimately, I want to keep growing as a developer by taking on challenging projects that push me to think critically and build software that genuinely makes a difference for users.</h6>
 
 ###
 
