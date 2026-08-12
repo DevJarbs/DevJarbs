@@ -4,7 +4,6 @@
 </div>
 <h2 data-importer="text" align="center">Jarvee Vios</h2> 
 
-###
 <h3 data-importer="text" align="left">About me</h3>
 
 ###
